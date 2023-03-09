@@ -1,3 +1,50 @@
 body {
-    background: rgba(0, 191, 255, 0.731);
+    background-image: url('https://hougumlaw.com/wp-content/uploads/2016/05/light-website-backgrounds-light-color-background-images-light-color-background-images-for-website-1024x640.jpg');
+}
+
+#name {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#infotag {
+    font-size: 20px;
+    float: right;
+    padding-right: 25px;
+    position: relative;
+    top: -100px;
+}
+
+#experience {
+    font-size: 40px;
+    text-align: center;
+}
+
+#job1 {
+    text-align: center;
+}
+
+#job2 {
+    text-align: center;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+#contact {
+    text-align: center;
+}
+
+#linkedin {
+    float: right;
+}
+
+#phone {
+    text-align: center;
+}
+
+#email {
+    float: inline-start;
 }
