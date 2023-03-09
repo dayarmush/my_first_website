@@ -10,41 +10,78 @@ body {
 
 #infotag {
     font-size: 20px;
-    float: right;
-    padding-right: 25px;
-    position: relative;
-    top: -100px;
+    text-align: center;
+    margin-top: -30px;
 }
+
+#aboutme {
+    text-align: center;
+    vertical-align: top;
+    padding-top: 10px;
+    color: navy;
+}
+
+#myhistory ul {
+    padding-left: 450px;
+    font-size: large;
+    border: 5px;
+} 
 
 #experience {
     font-size: 40px;
     text-align: center;
 }
 
+
 #job1 {
     text-align: center;
+}
+
+#job1 ul {
+    padding-left: 40px;
+}
+
+#job1 p {
+    text-align: left;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 20px;
 }
 
 #job2 {
     text-align: center;
 }
 
+#job2 p {
+    text-align: left;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 30px;
+}
+
 h3 {
-    font-size: 30px;
+    font-size: 25px;
+    color: navy;
 }
 
 #contact {
     text-align: center;
+    font-size: 40px;
+    color: #000;
 }
 
-#linkedin {
-    float: right;
-}
-
-#phone {
+#a {
     text-align: center;
 }
 
+#phone {
+    margin-bottom: -15px;
+}
+
 #email {
-    float: inline-start;
+    margin-bottom: -15px;
+}
+
+#linkedin {
+    margin-bottom: -15px;
 }
