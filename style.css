@@ -21,9 +21,12 @@ body {
 }
 
 #myhistory ul {
-    padding-left: 450px;
     font-size: large;
     border: 5px;
+    /* margin-left: 35%;
+    margin-right: 30%; */
+    padding-left: 35%;
+    padding-right: 30%;
 } 
 
 #experience {
@@ -97,4 +100,8 @@ h3 {
     padding: 10px 20px;
     border-radius: 5px;
     font-weight: bold;
+}
+
+h2 {
+    font-size: 15px;
 }
